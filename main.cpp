@@ -1,14 +1,22 @@
-#include <iostream>
-
-class Person {
-  private:
-    double paycheckJobOne = 6250.00;
-    double paycheckOneJobOne = 500.00;
-    double paycheckTwoJobTwo = 650.00;
-    double TIPS = 0.0;
-  public:
-};
+/*
+ By: Kevin Uriel Azuara Fonseca
+ Assigned by: Dr. T
+ https://docs.google.com/spreadsheets/d/14Ukq2Swo_rxE30FsEv0hHYofMfZogEN_/edit#gid=839394853
+ 12/01/2019
+*/
+#include "functions.h"
 
 int main() {
-  std::cout << "Hello World!\n";
+
+  string continueAgain = "";
+
+  do {
+    
+    showMenu();
+    cout << "/nPlease enter an option" << endl;
+    continueAgain = validateString(continueAgain);
+    handleOption(continueAgain);
+
+  } while (continueAgain != "e" && continueAgain != "E");
+  return 0;
 }

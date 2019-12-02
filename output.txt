@@ -1,0 +1,59 @@
+--------------------PERSON 1--------------------
+Mortgage:                      $540.00
+Electricity:                   $60.00
+Gas(Home):                     $0.00
+Water:                         $33.00
+Savings(Pay Yourself):         $300.00
+Entertainment:                 $30.00
+Clothes:                       $50.00
+Shoes:                         $7.50
+Vending Machine:               $10.80
+Credit Card Pmts:              $120.00
+Car PMT:                       $189.00
+Car Insurance:                 $52.80
+Car Maintenance:               $15.00
+Car Gas:                       $54.00
+School books:                  $0.00
+Food groceries:                $60.00
+Food Dining Out:               $63.00
+Cleaning Supplies:             $7.20
+Personal Care:                 $30.00
+Charity:                       $60.00
+Day Care:                      $0.00
+Pet Care:                      $60.00
+Cell Phone:                    $60.00
+Internet:                      $54.00
+Cable/Sat:                     $0.00
+Streaming Services:            $21.00
+Amazon.com:                    $54.00
+Total:                         $1931.30
+--------------------PERSON 2--------------------
+Mortgage:                      $360.00
+Electricity:                   $40.00
+Gas(Home):                     $0.00
+Water:                         $22.00
+Savings(Pay Yourself):         $200.00
+Entertainment:                 $20.00
+Clothes:                       $33.33
+Shoes:                         $5.00
+Vending Machine:               $7.20
+Credit Card Pmts:              $80.00
+Car PMT:                       $126.00
+Car Insurance:                 $35.20
+Car Maintenance:               $10.00
+Car Gas:                       $36.00
+School books:                  $0.00
+Food groceries:                $40.00
+Food Dining Out:               $42.00
+Cleaning Supplies:             $4.80
+Personal Care:                 $20.00
+Charity:                       $40.00
+Day Care:                      $0.00
+Pet Care:                      $40.00
+Cell Phone:                    $40.00
+Internet:                      $36.00
+Cable/Sat:                     $0.00
+Streaming Services:            $14.00
+Amazon.com:                    $36.00
+Total:                         $1287.53
+
